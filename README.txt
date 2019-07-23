@@ -8,4 +8,4 @@ Installs all the dependencies listed in package.json file
 
 3. gulp watch
 Compiles SCSS into CSS everytime you make a change to main.scss
-
+You still need to refresh browser to see changes
